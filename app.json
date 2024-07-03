@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "GURIYA JAAN😘💓",
       "required": true
     },
     "CAPTION" : {
@@ -43,7 +43,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "RANI JAN😍🖤"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -83,7 +83,7 @@
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -106,7 +106,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSU9VdWp4Syswc2RlUlJOSktWY1dSeENkekUwZnJiTSs2YnR6My9HdzQyRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieFFBeC9YcGJaRmpRVjRqd0F5dnVTbzVvNENRWWFkWlcvTjhuaVh6cHhTUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwUFRpWXhwOUhqNmZxZEtYWHhNbzNDQ1JYWW1HZDZwRWRQaWd5ZE04c2t3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJEZUlnYWdhNmViczlucFRhOS9udStyZU5DNUZOa1RuMFhlakxFSDQxK0VNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVKU0l1SHhMVWxsRDVlZUNjY3VrQW9GNjk5QVVUaXd2aHY4M3dzYVZma009In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InA0clFMcW1oMTJSTTl5NHZ2NzI4MnA0QnZpdVVLV25oMmt1MW1OeXlPa009In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0poVUlzOUJYSkVmQ3BvOGNSSWQyQnVNclZwQkprM29WSWZSekRkQkNFYz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY2JoNXdlcFdocCtibGZlUTBaNGJpLzFlZ0VtemZ0VzNHSFlwOVRRcW1EVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRQb3NvTTdLMFQxTnhiVWtGTG41Smp4amxKRWw1QTBGRWRLL25UeGk2WkFrYUpKbVJ3STB5NmxoT1FEbCt0dk1wdURxWHpVMisvL1VtYVhxTHM2OWlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQ1LCJhZHZTZWNyZXRLZXkiOiJ0b1lsZ1kwRDNncnlUVXZRZlB6RjE2VzN0OEhYa0RPMUJsUTJJSUNocnI4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiI2UFpReTRBelEtT2pNeFZtbEFaUW5BIiwicGhvbmVJZCI6ImNlZmYwYjA5LTlmNmEtNGFjMy1hYTc1LTFiY2ZkZTBlYWEwNyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2eGM2bDcwakYxWERsVGsxanhrZ3hDL3ExdlU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMVBseEFodGF0UHZYNm5nQnJrQnYrV0xCM1lvPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkZFSFg5TDRFIiwibWUiOnsiaWQiOiI5MjMxNjA3ODMyNTE6NDRAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiZ3VyaXlhID7igaAu4oGgPCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDT1BPNmRzRkVKUDdsYlFHR0FNZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiYnk0VmY4MEtNTTFVS0FRY2JSamZ6OU1hcFNiS1FOZ0lnM2t1c0pGc0dXTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiR1YyeFZkbThYVWt2TXh4cTVTd0o3elFDZGRvaWkrYi9GSURmampaNE9QUjFvb1gxRjJVY2VmSCtzUUVRN2J5OGgwMHJpYTdSUERYSTcxTUQwN2JkREE9PSIsImRldmljZVNpZ25hdHVyZSI6IjZsNEpNUG52bEVJcVpmbU1qQSthZ0thYUlTWTJLSkgrb2kxcVRJSTVySlB4TVZmUEt2bDYyR09JazFZYkh5ZFhVVkNmNWZORm5JSXA0NjJTVElSZmlBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTIzMTYwNzgzMjUxOjQ0QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlc4dUZYL05DakROVkNnRUhHMFkzOC9UR3FVbXlrRFlDSU41THJDUmJCbGoifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjAwMjQ0ODUsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBRTZHIn0="
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
